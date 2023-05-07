@@ -1,0 +1,26 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.titulo1 {
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(166, 233, 233);
+
+}
+h1{
+    margin: 2.5%;
+    font-family: quantico;
+    color: orange;
+}
+.cuentas{
+    display: flex;
+}
+
+
